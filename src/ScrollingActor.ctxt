@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=ScrollingActor
+comment1.params=
+comment1.target=ScrollingActor()
+comment2.params=scrollingCenter
+comment2.target=ScrollingActor(boolean)
+comment3.params=world
+comment3.target=void\ addedToWorld(greenfoot.World)
+comment4.params=x\ y
+comment4.target=void\ setLocation(int,\ int)
+comment5.params=x\ y
+comment5.target=void\ setLocation(double,\ double)
+comment6.params=x\ y\ resetPosition
+comment6.target=void\ setLocation(double,\ double,\ boolean)
+comment7.params=
+comment7.target=boolean\ isScrollingCenter()
+comment8.params=scrollingCenter
+comment8.target=void\ setScrollingCenter(boolean)
+numComments=9
